@@ -1,4 +1,4 @@
-## texto!
+## “Qualquer um pode escrever um código que o computador entenda. Bons programadores escrevem códigos que os humanos entendam.” – Martin Fowler
 <div align="center">
   <a href="https://github.com/ValberRodrigues">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ValberRodrigues&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -13,3 +13,5 @@
  
   ![Snake animation](https://github.com/ValberRodrigues/ValberRodrigues/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+##“Há apenas uma maneira de evitar críticas: não fazer, não falar e não ser nada.”
