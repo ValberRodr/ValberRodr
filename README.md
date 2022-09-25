@@ -14,4 +14,4 @@
   ![Snake animation](https://github.com/ValberRodrigues/ValberRodrigues/blob/output/github-contribution-grid-snake.svg)
 </div>
 
-##“Há apenas uma maneira de evitar críticas: não fazer, não falar e não ser nada.”
+“Há apenas uma maneira de evitar críticas: não fazer, não falar e não ser nada.”
