@@ -1,4 +1,7 @@
 ## “Qualquer um pode escrever um código que o computador entenda. Bons programadores escrevem códigos que os humanos entendam.” – Martin Fowler
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=ValberRodrigues&color=76B900&style=for-the-badge" alt="Profile views"/>
+</p>
 <div align="center">
   <a href="https://github.com/ValberRodr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ValberRodr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
