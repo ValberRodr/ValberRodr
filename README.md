@@ -31,7 +31,7 @@
       srcset="https://streak-stats.demolab.com?user=ValberRodr&hide_border=true&background=282A3600&stroke=BD93F9&ring=25D366&fire=25D366&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=BD93F981"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img width="49%" src="https://streak-stats.demolab.com?user=ValberRodr" />
+    <img width="49%" src="https://streak-stats.demolab.com?user=ValberRodrigues" />
   </picture>
 <!--   Wakatime -->
   <picture>
