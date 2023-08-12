@@ -4,8 +4,8 @@
 </p>
 <div align="center">
   <a href="https://github.com/ValberRodr">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=ValberRodr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="70%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValberRodr&layout=compact&langs_count=7&theme=dark&count_private=true"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api?username=ValberRodr&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValberRodr&layout=compact&langs_count=7&theme=dark&count_private=true"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ValberRodrigues/ValberRodrigues/output/snake-dark.svg" />
