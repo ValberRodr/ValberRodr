@@ -32,13 +32,13 @@
       srcset="https://streak-stats.demolab.com?user=ValberRodr&hide_border=true&background=282A3600&stroke=BD93F9&ring=25D366&fire=25D366&currStreakNum=000000&sideNums=000000&currStreakLabel=000000&sideLabels=000000&dates=BD93F981"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img width="49%" src="https://streak-stats.demolab.com?user=ValberRodrigues" />
+    <img width="49%" src="https://streak-stats.demolab.com?user=ValberRodr" />
   </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ValberRodrigues/ValberRodrigues/output/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ValberRodrigues/ValberRodrigues/output/snake.svg" />
-  <img alt="Snake animation" src="https://raw.githubusercontent.com/ValberRodrigues/ValberRodrigues/output/snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ValberRodr/ValberRodr/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ValberRodr/ValberRodr/output/snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/ValberRodr/ValberRodr/output/snake.svg">
 </picture>
 
 “Há apenas uma maneira de evitar críticas: não fazer, não falar e não ser nada.”
